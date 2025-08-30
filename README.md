@@ -2,9 +2,23 @@
 </div>
 
 ---
+<h1 align="center">Hi, I'm Shahd Ashraf  👋</h1>
+💻 Software Engineer 🚀 Passionate about coding, problem-solving & building creative solutions.
 
-## 👋 Hi there, I'm **Shahd Ashraf**
-💻 Software Engineer | 🚀 Passionate about coding, problem-solving & building creative solutions.
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/shahd-ashraf-24944230b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Shahd%20Ashraf-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/Shahd-Ashraf" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Shahd%20Ashraf-orange?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
+
+
+
 
 - 🔭 Currently working on improving my **Frontend & Backend** skills.  
 - 🌱 Learning more about **Web Development** & **Software Testing**.  
